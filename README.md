@@ -2,6 +2,6 @@
 
 Another basic responsive navbar with some simple javascript functionality; a quick solution to add to any project
 
-#Demo 
+# Demo 
 
 https://tomsygiel.github.io/Practice-project-2/
